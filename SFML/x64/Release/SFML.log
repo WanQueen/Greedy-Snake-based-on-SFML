@@ -1,0 +1,15 @@
+﻿  SFML.cpp
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(42,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(91,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(135,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(135,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(141,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(141,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(145,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML\SFML\SFML.cpp(145,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  0 of 88 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SFML.vcxproj -> C:\Users\25403\source\repos\SFML\x64\Release\SFML.exe
